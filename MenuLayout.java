@@ -91,7 +91,7 @@ public class MenuLayout extends AppCompatActivity {
                 .build();
     }
 
-    @Override
+    /*@Override
     public void onStart() {
         super.onStart();
 
@@ -108,6 +108,6 @@ public class MenuLayout extends AppCompatActivity {
         // ATTENTION: This was auto-generated to implement the App Indexing API.
         // See https://g.co/AppIndexing/AndroidStudio for more information.
         AppIndex.AppIndexApi.end(client, getIndexApiAction());
-        client.disconnect();
+        client.disconnect();*/
     }
 }
