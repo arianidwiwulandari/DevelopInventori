@@ -4,10 +4,8 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.CountDownTimer;
 import android.support.design.widget.TextInputEditText;
-import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -16,7 +14,6 @@ class LoginLayout extends AppCompatActivity {
 
     private static final String TAG = "Login";
     private Toast backtoast;
-    Profile user = new Profile();
     // UI references.
     private EditText usernameView;
     private TextInputEditText passwordView;
@@ -28,13 +25,15 @@ class LoginLayout extends AppCompatActivity {
         // Set up the login form.
         usernameView = (EditText) findViewById(R.id.txtusername);
         passwordView = (TextInputEditText) findViewById(R.id.txtpassword);
+
     }
 
     public void login(View view) {
         String username = usernameView.getText().toString();
         String password = passwordView.getText().toString();
+        Profile user = new Profile();
 
-        Log.d(TAG, "Login");
+        boolean next = false;
         if (!validate()) {
             return;
         }
@@ -44,9 +43,30 @@ class LoginLayout extends AppCompatActivity {
         progressDialog.setMessage("Logging in...");
         progressDialog.show();
 
+        //load data from db
+        DBPHandler db = new DBPHandler(this);
+        db.opendatabase();
+        user = db.getProfile(user.getUser());
+        db.close();
+
+        String pass = user.getPass();
+        //encrypt biar sama
+        try {
+            Encryption aese = new Encryption("SHA1");
+            password=aese.encrypt(password);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
 
         // TODO: Implement your own authentication logic here.
-        if (username.contains(user.getUsername()) && password.contains(user.getPassword())) {
+        if (username.contains(user.getUser()) && password.contains(pass)) {
+            next=true;
+
+        } else {
+            next=false;
+        }
+
+        if(next){
             new CountDownTimer(2000, 1000) {
 
                 public void onTick(long millisUntilFinished) {
@@ -56,9 +76,10 @@ class LoginLayout extends AppCompatActivity {
                 public void onFinish() {
                     progressDialog.dismiss();
                     loginSukses();
+                    finish();
                 }
             }.start();
-        } else {
+        } else{
             new CountDownTimer(2000, 1000) {
 
                 public void onTick(long millisUntilFinished) {
@@ -120,9 +141,9 @@ class LoginLayout extends AppCompatActivity {
 
         return valid;
     }
-    public void ubahPass(View view){
-        FragmentManager fm = getSupportFragmentManager();
-        ChangePassFragment changepass_DialogFragment = ChangePassFragment.newInstance("Some Title");
-        changepass_DialogFragment.show(fm, "ChangePassFragment");
-    }
+//    public void ubahPass(View view){
+//        FragmentManager fm = getSupportFragmentManager();
+//        ChangePassFragment changepass_DialogFragment = ChangePassFragment.newInstance("Some Title");
+//        changepass_DialogFragment.show(fm, "ChangePassFragment");
+//    }
 }
