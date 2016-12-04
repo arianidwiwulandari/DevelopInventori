@@ -4,6 +4,7 @@ import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.CountDownTimer;
 import android.support.design.widget.TextInputEditText;
+import android.support.v4.app.FragmentManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -25,7 +26,6 @@ class LoginLayout extends AppCompatActivity {
         // Set up the login form.
         usernameView = (EditText) findViewById(R.id.txtusername);
         passwordView = (TextInputEditText) findViewById(R.id.txtpassword);
-
     }
 
     public void login(View view) {
@@ -45,11 +45,9 @@ class LoginLayout extends AppCompatActivity {
 
         //load data from db
         DBPHandler db = new DBPHandler(this);
-        db.opendatabase();
-        user = db.getProfile(user.getUser());
+        String pass = db.getPwd();
         db.close();
 
-        String pass = user.getPass();
         //encrypt biar sama
         try {
             Encryption aese = new Encryption("SHA1");
@@ -141,9 +139,10 @@ class LoginLayout extends AppCompatActivity {
 
         return valid;
     }
-//    public void ubahPass(View view){
-//        FragmentManager fm = getSupportFragmentManager();
-//        ChangePassFragment changepass_DialogFragment = ChangePassFragment.newInstance("Some Title");
-//        changepass_DialogFragment.show(fm, "ChangePassFragment");
-//    }
+
+    public void ubahPass(View view){
+        FragmentManager fm = getSupportFragmentManager();
+        ChangePassFragment changepass_DialogFragment = ChangePassFragment.newInstance("Some Title");
+        changepass_DialogFragment.show(fm, "ChangePassFragment");
+    }
 }
