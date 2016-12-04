@@ -15,13 +15,13 @@ import javax.crypto.spec.SecretKeySpec;
  * Created by Alpha on 28/11/2016.
  */
 
-class Encryption {
+class AESEncryption{
     private final Cipher cipher;
     private final SecretKeySpec key;
     private AlgorithmParameterSpec spec;
 
 
-    public Encryption(String password) throws Exception
+    public AESEncryption(String password) throws Exception
     {
         // hash password with SHA-256 and crop the output to 128-bit for key
         MessageDigest digest = MessageDigest.getInstance("SHA-256");
@@ -49,6 +49,7 @@ class Encryption {
             cipher.init(Cipher.ENCRYPT_MODE, key, spec);
             byte[] encrypted = cipher.doFinal(plainText.getBytes(Charset.forName("UTF8")));
             String encryptedText = new String(Base64.encode(encrypted, Base64.DEFAULT), Charset.forName("UTF8"));
+            Log.d("encrypted text : ", encryptedText);
             return encryptedText;
         } catch (Exception e) {
             e.printStackTrace();
@@ -57,18 +58,20 @@ class Encryption {
         return "";
     }
 
-//    public String decrypt(String cryptedText) throws Exception
-//    {
-//        try {
-//            cipher.init(Cipher.DECRYPT_MODE, key, spec);
-//            byte[] bytes = Base64.decode(cryptedText, Base64.DEFAULT);
-//            byte[] decrypted = cipher.doFinal(bytes);
-//            String decryptedText = new String(decrypted, Charset.forName("UTF8"));
-//            return decryptedText;
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//            Log.e("Error", "Decipher error for " + cryptedText, e);
-//        }
-//        return "";
-//    }
+    public String decrypt(String cryptedText) throws Exception
+    {
+        try {
+            Log.d("encrypted text : ", cryptedText);
+            cipher.init(Cipher.DECRYPT_MODE, key, spec);
+            byte[] bytes = Base64.decode(cryptedText, Base64.DEFAULT);
+            byte[] decrypted = cipher.doFinal(bytes);
+            String decryptedText = new String(decrypted, Charset.forName("UTF8"));
+            Log.d("decrypted text : ", decryptedText);
+            return decryptedText;
+        } catch (Exception e) {
+            e.printStackTrace();
+            Log.e("Error", "Decipher error for " + cryptedText, e);
+        }
+        return "";
+    }
 }
