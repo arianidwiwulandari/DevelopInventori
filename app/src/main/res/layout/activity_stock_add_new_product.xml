@@ -1,0 +1,106 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B0C4DE"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".StockAddNewProductActivity" >
+
+    <TextView
+        android:id="@+id/txtItemListView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtSearchProduct"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/txtSearchProduct"
+        android:background="#FFFFFF"
+        android:gravity="center"
+        android:text="Add New Product Description"
+        android:textColor="#800000"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/txtSearchProduct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtItemListView"
+        android:ems="10"
+        android:hint="name" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/txtAddNewProducrDescriptionPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtSearchProduct"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtSearchProduct"
+        android:ems="10"
+        android:hint="Price"
+        android:inputType="numberDecimal" />
+
+    <EditText
+        android:id="@+id/txtRegisterBarcode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/txtAddNewProducrDescriptionPrice"
+        android:layout_below="@+id/txtAddNewProducrDescriptionPrice"
+        android:ems="10"
+        android:hint="barcode"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/txtRegisterProductionDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btRegisterOK"
+        android:layout_alignLeft="@+id/btAddNewProductDescriptionScanBarcode"
+        android:layout_alignRight="@+id/btAddNewProductDescriptionScanBarcode"
+        android:layout_below="@+id/btAddNewProductDescriptionScanBarcode"
+        android:ems="10"
+        android:hint="product description"
+        android:inputType="textMultiLine|textLongMessage" />
+
+    <Button
+        android:id="@+id/btRegisterOK"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtRegisterProductionDescription"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/txtRegisterProductionDescription"
+        android:background="@drawable/btn_yellow"
+        android:text="OK" />
+
+    <EditText
+        android:id="@+id/txtRegisterCost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtRegisterBarcode"
+        android:layout_alignRight="@+id/txtRegisterBarcode"
+        android:layout_below="@+id/txtRegisterBarcode"
+        android:ems="10"
+        android:hint="cost"
+        android:inputType="numberDecimal" />
+
+    <Button
+        android:id="@+id/btAddNewProductDescriptionScanBarcode"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txtRegisterCost"
+        android:layout_alignRight="@+id/txtRegisterCost"
+        android:layout_below="@+id/txtRegisterCost"
+        android:background="@drawable/btn_yellow"
+        android:gravity="center"
+        android:text="Scan barcode" />
+
+</RelativeLayout>
