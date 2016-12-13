@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\list_focused_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\list_focused_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_secondary_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\progress_secondary_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cab_background_top_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_top_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_primary_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\progress_primary_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_stacked_solid_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ab_stacked_solid_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_texture_tile_sikarinstyle.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ab_texture_tile_sikarinstyle.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cab_done_focused_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_focused_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cab_done_default_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_default_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_drawer.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\drawer_shadow.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_cab_done_pressed_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\btn_cab_done_pressed_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\progress_bg_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\progress_bg_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_transparent_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ab_transparent_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_disabled_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_disabled_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_pressed_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_pressed_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\action_search.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\action_search.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_pressed_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\cab_background_bottom_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\cab_background_bottom_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_selected_focused_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\tab_selected_focused_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_bottom_solid_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ab_bottom_solid_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_pressed_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_pressed_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_focused_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_focused_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\menu_dropdown_panel_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\menu_dropdown_panel_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\tab_unselected_focused_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\tab_unselected_focused_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\spinner_ab_default_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\spinner_ab_default_sikarinstyle.9.png"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ab_solid_sikarinstyle.9.png",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\drawable-xhdpi\\ab_solid_sikarinstyle.9.png"
+    }
+]

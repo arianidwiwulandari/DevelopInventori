@@ -1,0 +1,789 @@
+[
+    {
+        "outputFile": "C:\\MobilePOS-master1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\colors_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 800,
+                        "endColumn": 56,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 57,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 55,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 49,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 44,
+                    "endOffset": 316
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 45,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 321,
+                    "endColumn": 52,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 52,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 55,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 55,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 52,
+                    "endOffset": 478
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 483,
+                    "endColumn": 86,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 86,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endColumn": 64,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 64,
+                        "endOffset": 232
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 62,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 62,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endColumn": 52,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 52,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 83,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 83,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endColumn": 77,
+                    "endOffset": 908
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 77,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 913,
+                    "endColumn": 90,
+                    "endOffset": 999
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1636,
+                        "endColumn": 90,
+                        "endOffset": 1722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1004,
+                    "endColumn": 80,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 80,
+                        "endOffset": 1631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 85,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 85,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 98,
+                    "endOffset": 1265
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1376,
+                        "endColumn": 98,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1270,
+                    "endColumn": 79,
+                    "endOffset": 1345
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 79,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1350,
+                    "endColumn": 85,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 842,
+                        "endColumn": 85,
+                        "endOffset": 923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 54,
+                    "endOffset": 1486
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 54,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1491,
+                    "endColumn": 60,
+                    "endOffset": 1547
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 60,
+                        "endOffset": 837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1552,
+                    "endColumn": 91,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1093,
+                        "endColumn": 91,
+                        "endOffset": 1180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endColumn": 85,
+                    "endOffset": 1725
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 85,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1730,
+                    "endColumn": 77,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 77,
+                        "endOffset": 1882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 104,
+                    "endOffset": 1908
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1185,
+                        "endColumn": 104,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1913,
+                    "endColumn": 78,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 78,
+                        "endOffset": 1088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 81,
+                    "endOffset": 2069
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1727,
+                        "endColumn": 81,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2074,
+                    "endColumn": 77,
+                    "endOffset": 2147
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 77,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2152,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2623
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1922,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 2393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2628,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 2906
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2399,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2911,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3110
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3098,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 3297
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3115,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3320
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3911,
+                        "endLine": 73,
+                        "endColumn": 12,
+                        "endOffset": 4116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3325,
+                    "endLine": 58,
+                    "endColumn": 8,
+                    "endOffset": 3848
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 3,
+                        "startOffset": 54,
+                        "endLine": 13,
+                        "endColumn": 8,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3853,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4058
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2887,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 3092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4063,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4444
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3303,
+                        "endLine": 65,
+                        "endColumn": 12,
+                        "endOffset": 3684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4449,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 4647
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2683,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4652,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 4859
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3694,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 3901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4864,
+                    "endLine": 87,
+                    "endColumn": 12,
+                    "endOffset": 5979
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 5984,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 6248
+                },
+                "from": {
+                    "file": "C:\\MobilePOS-master1\\app\\src\\main\\res\\values\\styles_sikarinstyle.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4202,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 4466
+                    }
+                }
+            }
+        ]
+    }
+]

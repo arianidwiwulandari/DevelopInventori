@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\MobilePOS-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7b2a01385e42d00e6bf550d2bf0cb9bf64e4b562">
+        <dex dex="C:\MobilePOS-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c1a0d33d7764e6fc33d49d8d20c3062affd88cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\LENOVO G40-30\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\MobilePOS-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_bfb162cf07be8d8a219ffadd7234aa06e0c02624\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\MobilePOS-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="171650f15022940ec6baa5e9e93f29f17ee7ec74">
+        <dex dex="C:\MobilePOS-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2036799f1de9ec639e902aa7e2180abd23c35173\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock_inventory_line_item_detail.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock_inventory_line_item_detail.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cashier.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\cashier.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock_details.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock_details.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\content.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\content.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\customer_register.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\customer_register.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock_add_new_product.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock_add_new_product.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cashier_continue.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\cashier_continue.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\store_manager.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\store_manager.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock_view_all_stock.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock_view_all_stock.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\edit_product_description.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\edit_product_description.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cashier_sign_up.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\cashier_sign_up.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock_create_new_stock.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock_create_new_stock.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cashier_edit_profile.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\cashier_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history_deails.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\history_deails.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\stock_view_all.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\stock_view_all.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cashier_continue2.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\cashier_continue2.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\inventory_manager.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\menu\\inventory_manager.xml"
+    }
+]

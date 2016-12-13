@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cashier_listview.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\cashier_listview.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_content_fragment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_content_fragment.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_add_new_product.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_add_new_product.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sale_listview.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\sale_listview.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_details.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_details.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\animated_image_view.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\animated_image_view.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier_edit_profile.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_cashier_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier_continue3_finished_payment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_cashier_continue3_finished_payment.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_container.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\fragment_container.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inventory_manager.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_inventory_manager.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_view_all.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_view_all.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login_fall.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_login_fall.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_product_description.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_edit_product_description.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier_fragment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_cashier_fragment.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_listview.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\search_listview.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viewall_itemdescription.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_viewall_itemdescription.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_fragment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_fragment.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stock_details_list_item.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\stock_details_list_item.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_deails.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_history_deails.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history_fragment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_history_fragment.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple_spinner_item.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\simple_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier_sign_up.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_cashier_sign_up.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_create_new_stock.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_create_new_stock.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_inventory_line_item_detail.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_inventory_line_item_detail.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier_continue2_payment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_cashier_continue2_payment.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_view_all_stock.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_view_all_stock.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cashier_continue.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_cashier_continue.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stock_add_item.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_stock_add_item.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ani_image_view.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\ani_image_view.xml"
+    },
+    {
+        "merged": "C:\\MobilePOS-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search_fragment.xml",
+        "source": "C:\\MobilePOS-master1\\app\\src\\main\\res\\layout\\activity_search_fragment.xml"
+    }
+]

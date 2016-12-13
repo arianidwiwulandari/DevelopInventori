@@ -1,0 +1,7 @@
+#Tue Dec 13 09:48:24 ICT 2016
+base.0=C\:\\MobilePOS-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2036799f1de9ec639e902aa7e2180abd23c35173
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\MobilePOS-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c1a0d33d7764e6fc33d49d8d20c3062affd88cc9\\classes.dex
+base.1=C\:\\MobilePOS-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c1a0d33d7764e6fc33d49d8d20c3062affd88cc9
+file.0=C\:\\MobilePOS-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2036799f1de9ec639e902aa7e2180abd23c35173\\classes.dex

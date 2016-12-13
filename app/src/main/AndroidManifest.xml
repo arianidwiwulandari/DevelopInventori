@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.softspectproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="Inventori Fariz"
+        android:theme="@style/Theme.Sikarinstyle">
+        <activity
+            android:name="com.android.ui.LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.android.ui.CashierContinueActivity"
+            android:label="Cashier" >
+        </activity>
+        <activity
+            android:name="com.android.ui.LoginFallAnimationActivity"
+            android:label="Inventory Faris" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.ui.CashierContinueFragment1"
+            android:label="Cashier" >
+        </activity>
+        <activity
+            android:name="com.android.ui.MainActivity"
+            android:label="Inventory Faris" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StoreManagerActivity"
+            android:label="Store Manage" >
+        </activity>
+        <activity
+            android:name="com.android.ui.InventoryManagerActivity"
+            android:label="Inventory Manage" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StockCreateNewStock"
+            android:label="Create new Stock" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StockViewAllItemDescriptionActivity"
+            android:label="All Item Description" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StockAddNewProductActivity"
+            android:label="Add new Product Description" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StockInventoryLineItemDetail"
+            android:label="Stock Details" >
+        </activity>
+        <activity
+            android:name="com.android.ui.EditProductDescriptionActivity"
+            android:label="Edit Product Desccription" >
+        </activity>
+        <activity
+            android:name="com.android.ui.HistoryDetailsActivity"
+            android:label="Sale History Details" >
+        </activity>
+        <activity
+            android:name="com.android.ui.CashierSignUpActivity"
+            android:label="Cashier Sign Up" >
+        </activity>
+        <activity
+            android:name="com.android.ui.CashierEditProfileActivity"
+            android:label="Cashier Edit Profile" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StockViewAllStockActivity"
+            android:label="View all Stock" >
+        </activity>
+        <activity
+            android:name="com.android.ui.StockDetailsActivity"
+            android:label="Stock Details" >
+        </activity>
+    </application>
+
+</manifest>
