@@ -1,0 +1,46 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B0C4DE"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.android.ui.SearchFragment" >
+
+    <EditText
+        android:id="@+id/txtSearchProduct"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:ems="10"
+        android:hint="Search Available Stock"
+        android:lines="1"
+        android:layout_toStartOf="@+id/btnSearch"
+        android:layout_toLeftOf="@+id/btnSearch"
+        android:maxLines="1">
+
+        <requestFocus />
+    </EditText>
+
+    <ListView
+        android:id="@+id/listViewProductSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtSearchProduct"
+        android:layout_centerHorizontal="true" >
+
+    </ListView>
+
+    <Button
+        android:text="Search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSearch"
+        android:layout_above="@+id/listViewProductSearch"
+        android:background="#00BFFF"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
